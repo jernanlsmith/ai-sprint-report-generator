@@ -62,9 +62,9 @@ The generated report includes:
 
 ## Sample Output
 
-[Watch Live Demo] https://docs.google.com/document/d/1Azy8BqM6rPzJUbuVKMIOK4Pz2yl8pPpG/edit?usp=drive_link&ouid=105828542221982178089&rtpof=true&sd=true
+[Watch Live Demo] https://drive.google.com/file/d/12HSZCrV4hq3Bs4dneSZScZTwkxq3pg3r/view?usp=drive_link
 
-Full case study available at [jleighsmithconsulting.netlify.app](https://jleighsmithconsulting.netlify.app)
+Full case study available at (https://jleighsmithconsulting.netlify.app)
 
 ## Key Metrics
 
