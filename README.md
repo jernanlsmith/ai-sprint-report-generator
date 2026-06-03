@@ -79,6 +79,6 @@ Built by J. Leigh Smith — AI Workflow Automation Specialist
 
 - Portfolio: [jleighsmithconsulting.netlify.app](https://jleighsmithconsulting.netlify.app)
 - Email: jernansmith@outlook.com
-- LinkedIn: [your LinkedIn URL]
+- LinkedIn: https://www.linkedin.com/in/jernansmith/
 
 *Self-initiated portfolio project. Currently accepting pilot clients at reduced rates.*
